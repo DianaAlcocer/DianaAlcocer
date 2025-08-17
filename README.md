@@ -29,6 +29,7 @@ Aspirante a QA Tester, me apasiona la programacion y desarrollo de software, act
 ## 💼 Proyectos:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=qa-project-Urban-Routes-es)](https://github.com/DianaAlcocer/qa-project-Urban-Routes-es)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=qa-project-Urban-Routes-app-es)](https://github.com/DianaAlcocer/qa-project-Urban-Routes-app-es)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=qa-project-Urban-Grocers-app-es)](https://github.com/DianaAlcocer/qa-project-Urban-Grocers-app-es)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=api_stand_tests)](https://github.com/DianaAlcocer/api_stand_tests)
 
