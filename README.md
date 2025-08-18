@@ -7,7 +7,7 @@
 Interesada en mejorar la calidad del software para que el usuario tenga una excelente experiencia.
 -->
 <div align="center">
-<hi align="center">¡Hola! Soy Diana Alcocer 👋</hi>
+<h1>¡Hola! Soy Diana Alcocer 👋</h1>
 <h2>QA Engineer</h2>
 </div>
 
