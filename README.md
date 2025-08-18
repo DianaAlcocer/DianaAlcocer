@@ -8,10 +8,10 @@ Interesada en mejorar la calidad del software para que el usuario tenga una exce
 -->
 <div align="center">
 <h1>¡Hola! Soy Diana Alcocer 👋</h1>
-<h2>QA Engineer</h2>
+<h2>QA Engineer Jr</h2>
 </div>
 
-<img src=>
+<img src="/home/diana/Descargas/Diana_Alcocer.png>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diana-alcocer-qaengineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carol.015@gmail.com) 
 
