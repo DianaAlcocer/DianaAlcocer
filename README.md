@@ -6,12 +6,11 @@
 
 Interesada en mejorar la calidad del software para que el usuario tenga una excelente experiencia.
 -->
-<div align="center">
-<h1>¡Hola! Soy Diana Alcocer 👋</h1>
-<h2>QA Engineer Jr</h2>
+<div>
+ <h1 align="center">¡Hola! Soy Diana Alcocer 👋</h1>
 </div>
-
-<img src="/home/diana/Descargas/Diana_Alcocer.png>
+<div align="center"><img width="1920" height="480" alt="Diana_Alcocer" src="https://github.com/user-attachments/assets/9d383dbe-1367-48ec-919c-b5ce2b7b8c5a" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diana-alcocer-qaengineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carol.015@gmail.com) 
 
@@ -27,11 +26,5 @@ Aspirante a QA Tester, me apasiona la programacion y desarrollo de software, act
 </p>
 
 <p align="center">
-  Testing de software manual y automatizado | Pruebas funcionales para apps web y móviles | Pruebas API REST | Bases de datos SQL mediante terminal | Informe de incidencias
+  Pruebas manuales y automatizado | Pruebas funcionales para apps web y móviles | Pruebas API REST | Bases de datos SQL | Informe de incidencias
 </p>
-
-## 💼 Proyectos:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=qa-project-Urban-Routes-es)](https://github.com/DianaAlcocer/qa-project-Urban-Routes-es)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=qa-project-Urban-Grocers-app-es)](https://github.com/DianaAlcocer/qa-project-Urban-Grocers-app-es)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaAlcocer&repo=api_stand_tests)](https://github.com/DianaAlcocer/api_stand_tests)
