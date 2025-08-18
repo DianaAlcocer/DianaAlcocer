@@ -1,15 +1,8 @@
-<!--
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
 
-Interesada en mejorar la calidad del software para que el usuario tenga una excelente experiencia.
--->
 <div>
  <h1 align="center">¡Hola! Soy Diana Alcocer 👋</h1>
 </div>
-<div align="center"><img width="1920" height="480" alt="Diana_Alcocer" src="https://github.com/user-attachments/assets/9d383dbe-1367-48ec-919c-b5ce2b7b8c5a" />
+<img width="1920" height="480" alt="2" src="https://github.com/user-attachments/assets/1e7110c9-b656-4e82-abc8-151a6ec9a563" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diana-alcocer-qaengineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carol.015@gmail.com) 
