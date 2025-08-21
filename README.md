@@ -19,5 +19,5 @@ Aspirante a QA Tester, me apasiona la programacion y desarrollo de software, act
 </p>
 
 <p align="center">
-  Pruebas manuales y automatizado | Pruebas funcionales para apps web y móviles | Pruebas API REST | Bases de datos SQL | Informe de incidencias
+  Pruebas manual y automatizadas en Python | Pruebas funcionales para apps web y móviles | Pruebas API REST | Bases de datos SQL | Informe de incidencias en Jira
 </p>
